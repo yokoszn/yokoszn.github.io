@@ -7,7 +7,6 @@ twitter_username: yokoszn
 
 baseurl: ""
 url: "https://yokoszn.github.io"
-theme: jekyll-shell-theme
 
 plugins:
   - jemoji
