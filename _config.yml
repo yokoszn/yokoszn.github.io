@@ -1,11 +1,11 @@
 title: "WizardryAtWork"
 email: contact@clayatownsend.com
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
+tagline: "Clay Townsend - Network Engineer Digital Portfolio"
+description: "Home for my links."
 github_username:  yokoszn
 twitter_username: yokoszn
 
-baseurl: "/"
+baseurl: ""
 url: "https://yokoszn.github.io"
 theme: jekyll-shell-theme
 
