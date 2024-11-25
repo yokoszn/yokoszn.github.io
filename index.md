@@ -4,12 +4,13 @@ permalink:
 permalink_name:
 title: WizardryAtWork
 ---
-# Clay Townsend - Network Engineer
+
+# Current Role - Network Engineer
 
 ## Education & Training
-- [X] ICT20120 - Certificate II in Applied Digital Technolgies 2022
-- [X] ICT30120 - Certificate III in Information Technology 02/2023-08/2024
-- [ ] ICT40120 - Certificate IV in Information Technology (Networking) 08/2024-2026~
+- [X] ICT20120 - Certificate II in Applied Digital Technolgies
+- [X] ICT30120 - Certificate III in Information Technology
+- [ ] ICT40120 - Certificate IV in Information Technology (Networking)
   
 ## Certifications
 - [X] Sophos Central Engineer - ET15
@@ -19,7 +20,7 @@ My experience is primarily in MSP environments - Over past couple years I’ve w
 
 My career began at a local repair shop when I was 14, I honed my technical skills by troubleshooting and repairing hardware, from iPhones to consumer desktops. Since then, I’ve supported clients in diverse environments, providing hardware support, writing documentation, and managing backup and disaster recovery operations.
 
-This website serves as my digital portfolio. I intend to occasionally share writeups about what I’m learning and other projects I find interesting.
+This website serves as my digital portfolio. 
 
 ## Links
 
@@ -30,4 +31,4 @@ This website serves as my digital portfolio. I intend to occasionally share writ
 
 ## Contact
 
-You can reach me directly via email or messaging me on discord. 
+You can reach me directly via email or discord. 
