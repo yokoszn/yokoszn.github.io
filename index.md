@@ -1,7 +1,7 @@
 ---
 layout: home
-permalink: /
-permalink_name: /
+permalink: 
+permalink_name: home
 title: yokoszn
 
 ---
