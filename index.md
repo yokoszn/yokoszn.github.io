@@ -4,9 +4,9 @@ permalink:
 permalink_name:
 title: WizardryAtWork
 ---
-
-## Clay Townsend
-## Current Role : Network Engineer
+>
+## Name: Clay Townsend
+## Role: Network Engineer
 
 ## Education & Training
 - [X] ICT20120 - Certificate II in Applied Digital Technolgies
