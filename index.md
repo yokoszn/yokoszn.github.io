@@ -5,9 +5,6 @@ permalink_name:
 title: Clay Townsend
 ---
 
-See my work!
-
-## Projects
 
 - **[ITLearn](https://itlearn.claytownsend.com.au/)**
 - **[HomeLab](https://homelab.claytownsend.com.au/)**
