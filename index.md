@@ -14,6 +14,6 @@ title: My Links
 - **[Community Discord](https://discord.gg/nDyWQzNwmC)**
 
 ## Other
-- **[GitHub]( https://github.com/yokoszn)**
+- **[Email](mailto:contact@claytownsend.com.au)**
 - **[TryHackMe](https://tryhackme.com/r/p/yokoszn)**
 - **[LinkedIn](https://au.linkedin.com/in/clay-townsend-755177277)**
