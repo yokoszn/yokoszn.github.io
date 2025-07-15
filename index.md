@@ -5,6 +5,8 @@ permalink_name:
 title: Clay Townsend
 ---
 
+See my work!
+
 ## Projects
 
 - **[ITLearn](https://itlearn.claytownsend.com.au/)**
@@ -12,7 +14,7 @@ title: Clay Townsend
 - **[TryHackMe Writeups](https://thm.claytownsend.com.au/)**
 - **[Community Discord](https://discord.gg/nDyWQzNwmC)**
 
-## Links
+## Other
 
 - **[GitHub]( https://github.com/yokoszn)**
 - **[TryHackMe](https://tryhackme.com/r/p/yokoszn)**
