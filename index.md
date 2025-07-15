@@ -2,7 +2,7 @@
 layout: home
 permalink: 
 permalink_name:
-title: WizardryAtWork
+title: Clay Townsend
 ---
 
 ## Projects
