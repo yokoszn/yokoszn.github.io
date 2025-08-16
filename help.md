@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /help
-permalink_name: /help
+permalink: Help
+permalink_name: Help
 title: help.md
 ---
 
