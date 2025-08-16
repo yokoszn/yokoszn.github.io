@@ -7,9 +7,6 @@ title: Terms Of Service
 
 Last updated: {{ site.time | date: "%-d %B %Y" }}
 
-**Business:** Clay Townsend (ABN: **63 812 124 786** )  
-**Contact:** contact@claytownsend.com.au
-
 ## 1. Scope & availability
 Services are provided by appointment to individuals and small businesses. Availability varies with workload; limited after-hours/weekend slots may be offered by prior arrangement. Emergency/on-call SLAs are **not** currently available.
 
@@ -57,3 +54,6 @@ We may update these terms by posting a new version on this site. The version in 
 These terms are governed by the laws of **Tasmania, Australia**. The parties will attempt to resolve disputes in good faith; failing that, the courts of Tasmania have non-exclusive jurisdiction.
 
 ---
+
+**ABN:** *63 812 124 786* 
+**Contact:** *contact@claytownsend.com.au*
