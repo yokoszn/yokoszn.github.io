@@ -7,7 +7,7 @@ title: Terms Of Service
 
 Last updated: {{ site.time | date: "%-d %B %Y" }}
 
-**Business:** Clay Townsend (ABN: YOUR-ABN)  
+**Business:** Clay Townsend (ABN: **63 812 124 786** )  
 **Contact:** contact@claytownsend.com.au
 
 ## 1. Scope & availability
