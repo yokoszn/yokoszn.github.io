@@ -22,7 +22,7 @@ header_pages:
   - index.md
   - help.md
   - services.md
-  - terms.md
+  - tos.md
   - privacy.md
 
 # set the size of the text to 'large' or 'small', default is small
