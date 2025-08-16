@@ -20,7 +20,7 @@ highlighter: rouge
 
 header_pages:
  # - index.md
- # - read-me.md
+ - help.md
  # - preview.md
 
 # set the size of the text to 'large' or 'small', default is small
