@@ -1,7 +1,7 @@
 ---
 layout: home
-permalink: 
-permalink_name:
+permalink:home
+permalink_name:home
 title: My Links
 ---
 
