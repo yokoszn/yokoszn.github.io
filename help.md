@@ -22,3 +22,8 @@ Quotes are provided on request. Typical build/QA turnaround is 7–14 days from 
 Invoices are issued immediately after work is completed or at month-end for ongoing engagements. Payment methods and terms are listed on each invoice.
 
 **Services are by appointment. Limited after-hours/weekend availability. Typical reply: 1–2 business days.**
+
+Last updated: {{ site.time | date: "%-d %B %Y" }}
+
+**ABN:** *63 812 124 786* 
+**Contact:** *contact@claytownsend.com.au*
