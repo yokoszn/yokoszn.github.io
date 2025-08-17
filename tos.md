@@ -56,4 +56,4 @@ These terms are governed by the laws of **Tasmania, Australia**. The parties wil
 ---
 
 **ABN:** *63 812 124 786* 
-**Contact:** *contact@claytownsend.com.au*
+**Contact:** *tos@claytownsend.com.au*
