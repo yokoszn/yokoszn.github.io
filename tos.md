@@ -4,6 +4,7 @@ permalink: tos
 permalink_name: tos
 title: Terms Of Service
 ---
+... C:/tos >
 
 Last updated: {{ site.time | date: "%-d %B %Y" }}
 
