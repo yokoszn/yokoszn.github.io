@@ -5,15 +5,19 @@ permalink_name:
 title: My Links
 ---
 
-... C:/ >
+... C:/~ >
 
+# Contact
+- **[Email](mailto:hello@claytownsend.com.au)**
+- **[LinkedIn](https://au.linkedin.com/in/clay-townsend-755177277)**
+- **[Discord](https://discord.gg/nDyWQzNwmC)**
+  
 ## Projects
 - **[ITLearn](https://itlearn.claytownsend.com.au/)**
 - **[HomeLab](https://homelab.claytownsend.com.au/)**
-- **[TryHackMe Writeups](https://thm.claytownsend.com.au/)**
-- **[Community Discord](https://discord.gg/nDyWQzNwmC)**
+
 
 ## Other
-- **[Email](mailto:contact@claytownsend.com.au)**
 - **[TryHackMe](https://tryhackme.com/r/p/yokoszn)**
-- **[LinkedIn](https://au.linkedin.com/in/clay-townsend-755177277)**
+- **[TryHackMe Writeups](https://thm.claytownsend.com.au/)**
+
